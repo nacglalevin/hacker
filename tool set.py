@@ -1,9 +1,17 @@
 import time
 import os
-print('_!_!_!_!_!_!_!_!_!_!_!_!_!_')
-print(    '!_!_!_!_!_!_!_!_!_!_!_!_!_!')
-print(    '   ！——！——！——！')
-print(        '!！——！——！')
+
+os.system("clear")
+os.system("figlet DDOS NACG")
+text="""
+=========================================================================                                                                   
+ Author: Lalevin Martin
+ Mailbox: zzlyxht@outlook.com                                                
+ Github: http://github.com/nacglalevin                          
+ Version:2.5
+==================================NACG===================================
+"""
+print("text")
 print('1.进行一系列脚本扫描')
 print('2.进行DDOS')
 print('3.使用nmap 利用已知的漏洞入侵系统')
