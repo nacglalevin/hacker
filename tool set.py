@@ -2,7 +2,7 @@ import time
 import os
 
 os.system("clear")
-os.system("figlet DDOS NACG")
+os.system("figlet HOLY SWORD")
 text="""
 =========================================================================                                                                   
  Author: Lalevin Martin
