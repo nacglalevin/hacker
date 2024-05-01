@@ -8,7 +8,7 @@ text="""
  Author: Lalevin Martin
  Mailbox: zzlyxht@outlook.com                                                
  Github: http://github.com/nacglalevin                          
- Version:2.5
+ Version:1.0
 ==================================NACG===================================
 """
 print("text")
