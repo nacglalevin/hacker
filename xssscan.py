@@ -1,3 +1,11 @@
+"""
+========================================
+Name:Dragon Sword Author: Lalevin Martin
+ Mailbox: zzlyxht@outlook.com                                                
+ Github: http://github.com/nacglalevin
+Written in 2022-11-4
+==================NACG==================
+"""
 import mechanize
 import argparse
 
