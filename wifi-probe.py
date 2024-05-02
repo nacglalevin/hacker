@@ -1,6 +1,6 @@
 """
 ========================================
-Name:Shenji ShenjiArrow Author: Lalevin Martin
+Name:Shenji Arrow Author: Lalevin Martin
  Mailbox: zzlyxht@outlook.com                                                
  Github: http://github.com/nacglalevin
 Written in 2022-11-28
