@@ -1,3 +1,11 @@
+"""
+==========================================
+Name:Commandant Author: Lalevin Martin
+ Mailbox: zzlyxht@outlook.com                                                
+ Github: http://github.com/nacglalevin
+Written in 2023-10-5
+==================NACG==================
+"""
 import urllib
 import urllib2
 import threading
