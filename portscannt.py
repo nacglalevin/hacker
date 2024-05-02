@@ -3,7 +3,7 @@
 Name:Yunyou Author: Lalevin Martin
  Mailbox: zzlyxht@outlook.com                                                
  Github: http://github.com/nacglalevin
-Written in 2024-4-22
+Written in 2023-12-5
 ==================NACG==================
 """
 from socket import *
