@@ -1,3 +1,11 @@
+"""
+==========================================
+Name:Centurion Author: Lalevin Martin
+ Mailbox: zzlyxht@outlook.com                                                
+ Github: http://github.com/nacglalevin
+Written in 2022-12-5
+==================NACG==================
+"""
 import sys
 import requests
 from prettytable import PrettyTable
