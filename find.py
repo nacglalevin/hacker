@@ -1,3 +1,11 @@
+"""
+==========================================
+Name:Celestial Eye Author: Lalevin Martin
+ Mailbox: zzlyxht@outlook.com                                                
+ Github: http://github.com/nacglalevin
+Written in 2023-8-11
+==================NACG==================
+"""
 import requests
 import time
 from bs4 import BeautifulSoup
