@@ -1,3 +1,11 @@
+"""
+==========================================
+Name:Hunter Author: Lalevin Martin
+ Mailbox: zzlyxht@outlook.com                                                
+ Github: http://github.com/nacglalevin
+Written in 2024-4-22
+==================NACG==================
+"""
 import bluetooth
 import sys
 
