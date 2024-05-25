@@ -14,7 +14,7 @@ def chax():
   lid=input('请输入你要查询的域名:')
   head={'User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'}
   url="http://site.ip138.com/{}/".format(lid)
-  urldomain="http://site.ip138.com/{}/domain.htm".format(lid)
+  urldomain=("http://site.ip138.com/{}/domain.htm".format(lid))
   url2="http://site.ip138.com/{}/beian.htm".format(lid)
   url3="http://site.ip138.com/{}/whois.htm".format(lid)
   rb=requests.get(url,headers=head)
