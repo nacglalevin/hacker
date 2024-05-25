@@ -1,3 +1,12 @@
+"""
+========================================
+Name:Yunyou Author: Lalevin Martin
+ Mailbox: zzlyxht@outlook.com                                                
+ Github: http://github.com/nacglalevin
+Written in 2024-5-25
+How to use:netstat -n | awk '/^tcp/ {++S[$NF]} END{for(a in S) print a,S[a]}
+==================NACG==================
+"""
 #coding=utf-8
 # iptables -A OUTPUT -p tcp --tcp-flags RST RST -d 被害IP -j DROP
 import argparse
