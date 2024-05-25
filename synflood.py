@@ -34,7 +34,7 @@ def Banner():
     print(" |_____\__, |____/|_| |_|\__,_|_|  |_|\_\\")
     print("       |___/                             \n")
     print("E-Mail: me@lyshark.com\n")
-
+    print("How to use:netstat -n | awk '/^tcp/ {++S[$NF]} END{for(a in S) print a,S[a]}")
 if __name__ == "__main__":
     Banner()
     parser = argparse.ArgumentParser()
