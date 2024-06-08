@@ -1,3 +1,11 @@
+"""
+========================================
+Name:Blasting expert Author: Lalevin Martin
+ Mailbox: zzlyxht@outlook.com                                                
+ Github: http://github.com/nacglalevin
+Written in 2023-4-25
+==================NACG==================
+"""
 from tkinter import *
 from tkinter import ttk  
 import pywifi
