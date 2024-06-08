@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: gbk -*-
-# -*- coding: utf-8 -*-
-# Date: 2019/01/10
-# Created by 冰河
-# Description Wifi爆破工具(图形界面版)
-# 博客 https://blog.csdn.net/l1028386804
 from tkinter import *
 from tkinter import ttk  
 import pywifi
