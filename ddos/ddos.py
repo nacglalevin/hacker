@@ -358,15 +358,15 @@ class Synflood(Thread):
 
 def main():
         parser = ArgumentParser(
-        usage='./%(prog)s -t [target] -p [port] -t [number threads]',
+        usage='python %(prog)s -t [target] -p [port] -t [number threads]',
         formatter_class=RawTextHelpFormatter,
-        prog='pyddos',
+        prog='ddos.3.0.py',
         description=cprint(title,'white',attrs=['bold']),
         epilog='''
 Example:
-    ./%(prog)s -d www.example.com -p 80 -T 2000 -Pyslow
-    ./%(prog)s -d www.domain.com -s 100 -Request
-    ./%(prog)s -d www.google.com -Synflood -T 5000 -t 10.0
+    python %(prog)s -d www.example.com -p 80 -T 2000 -Pyslow
+    python %(prog)s -d www.domain.com -s 100 -Request
+    python %(prog)s -d www.google.com -Synflood -T 5000 -t 10.0
 '''
 )
         options = parser.add_argument_group('options','')
